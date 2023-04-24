@@ -1,0 +1,24 @@
+{
+  "name": "nodemon-docker",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "nodemon": "./bin/index.js"
+  },
+  "scripts": {
+    "build": "pkg . --target alpine --output nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bk1012/nodemon-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bk1012/nodemon-docker/issues"
+  },
+  "homepage": "https://github.com/bk1012/nodemon-docker#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
