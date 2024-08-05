@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/bk1012/nodemon-docker#readme",
   "dependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.23"
   }
 }
